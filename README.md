@@ -1,6 +1,7 @@
 
 - [Carpeta BackEnd](https://github.com/frcho10/adminUsersPhp/tree/main/backendAdminUsers)
 - [Carpeta FrontEnd](https://github.com/frcho10/adminUsersPhp/tree/main/frontendAdminUsers)
+- [Carpeta de Documentación](https://github.com/frcho10/adminUsersPhp/tree/main/documentos)
 
 ## Pasos para generar base de datos
 
